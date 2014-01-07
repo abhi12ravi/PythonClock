@@ -12,5 +12,5 @@ Finally, the clock starts ticking!
 3. Then Run the file a1_gui.py.
 4. Have fun!
 
-NOTE: Make sure you run the filr on Python 3.x version.
+NOTE: Make sure you run the file on Python 3.x version.
 
